@@ -1,1 +1,1 @@
-# di-b18-infra
+# Azure Landing Zone Infra
